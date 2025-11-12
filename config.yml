@@ -1,0 +1,33 @@
+title: "Sifa MULAULI"
+baseline: "Développeuse Etudiante passionné"
+description: "Développeuse passionnée par la technologie, les projets innovants et le partage de connaissances."
+
+params:
+  author: "Bulaya Kasomo"
+  github: "https://github.com/"
+  email: "grace@example.com"
+  social:
+    - name: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/"
+    - name: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "#"
+    - name: "Twitter"
+      icon: "fab fa-twitter"
+      url: "#"
+
+menu:
+  main:
+    - name: "Accueil"
+      url: "/"
+      weight: 1
+    - name: "Projets"
+      url: "/projets/"
+      weight: 2
+    - name: "Blog"
+      url: "/blog/"
+      weight: 3
+    - name: "Contact"
+      url: "/contact/"
+      weight: 4
